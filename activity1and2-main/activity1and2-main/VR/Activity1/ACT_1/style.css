@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    margin: auto;
+}
+
+.container{
+    padding: 30px;
+    margin: auto;
+    display: flex;
+    margin-top: 5%;
+    
+}
+.classLeft{
+    margin-top: 8%;
+}
+.right{
+    width:20%;
+    height: 20%;
+}
+img{
+    margin-right: 50px;
+    justify-content: center;
+}
+p{
+    margin-left: 50px;                
+}
+h1{
+    margin-left: 350px;
+}
+button{
+    margin-left: 10px;
+    gap: 20px;
+    
+}
+
+    
